@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 zaknbur/gmaps is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Python](https://www.python.org) – Languages
 - [Backbone.js](http://backbonejs.org/) – Javascript MVC Frameworks
@@ -21,11 +22,13 @@ zaknbur/gmaps is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 zaknbur/gmaps is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1017/Screen_Shot_2012-04-28_at_8.52.15_PM.png' alt='Backbone.js'/> [Backbone.js](http://backbonejs.org/) – Javascript MVC Frameworks
@@ -45,14 +48,15 @@ zaknbur/gmaps is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [zaknbur/gmaps](https://github.com/zaknbur/gmaps)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|37<br/>Tools used|11/23/23 <br/>Report generated|
+|37<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -264,10 +268,10 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[geojson](https://pypi.org/geojson)|v2.0.0|08/20/17|Pascal Bugnion |BSD-3-Clause|N/A|
-|[ipywidgets](https://pypi.org/ipywidgets)|v7.0.0|08/19/17|Pascal Bugnion |BSD-3-Clause|N/A|
-|[six](https://pypi.org/six)|N/A|09/23/16|Pascal Bugnion |MIT|N/A|
-|[traitlets](https://pypi.org/traitlets)|v4.3.0|09/23/16|Pascal Bugnion |BSD-3-Clause|N/A|
+|[geojson](https://pypi.org/project/geojson)|v2.0.0|08/20/17|Pascal Bugnion |BSD-3-Clause|N/A|
+|[ipywidgets](https://pypi.org/project/ipywidgets)|v7.0.0|08/19/17|Pascal Bugnion |BSD-3-Clause|N/A|
+|[six](https://pypi.org/project/six)|N/A|09/23/16|Pascal Bugnion |MIT|N/A|
+|[traitlets](https://pypi.org/project/traitlets)|v4.3.0|09/23/16|Pascal Bugnion |BSD-3-Clause|N/A|
 
 <br/>
 <div align='center'>
