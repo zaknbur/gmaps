@@ -2,7 +2,7 @@ repo_name: zaknbur/gmaps
 report_id: ac279651c343fbe37532bb3a23b0e79f
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:35:24+00:00'
+timestamp: '2024-02-29T18:53:03+00:00'
 requested_by: pbugnion
 provider: github
 branch: master
@@ -150,7 +150,7 @@ tools:
   last_updated_by: Pascal Bugnion
   last_updated_on: 2016-06-05 18:25:56.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.15.2
   license: MIT
